@@ -1,4 +1,4 @@
-### Hi there, I'm BASHIR AHMAD ZAMANI 👋
+### Hi there, I'm Bashir Ahmad ZAMANI 👋
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/BashirZamani1)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bashir-ahmad-zamani-75976b1b9/)
