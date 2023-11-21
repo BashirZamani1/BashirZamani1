@@ -8,5 +8,5 @@ Feel free to checkout my [portfolio](https://bashirzamani1.github.io/) website!
 - 💻 Software Engineer (Full Stack)
 - 🧰 I build with: `PHP (Laravel)`, `JavaScript ES6`, `Node.js (Express)`, `Vue.js (Nuxt.js)`, `Reat JS (Next.js)` `Bootstrap 4 & 5`, `Tailwind CSS` ...
 - ⚡ I enjoy Traveling, reading, playing soccer, and Games :)
--  From Kabul, Afghanistan
+- &#128205; From Kabul, Afghanistan
 
